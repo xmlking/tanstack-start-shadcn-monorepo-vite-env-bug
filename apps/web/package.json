@@ -19,6 +19,7 @@
     "@tanstack/react-start": "latest",
     "@tanstack/router-plugin": "latest",
     "@workspace/ui": "workspace:*",
+    "@vite-env/core": "catalog:",
     "lucide-react": "^1.18.0",
     "react": "^19.2.6",
     "react-dom": "^19.2.6",
