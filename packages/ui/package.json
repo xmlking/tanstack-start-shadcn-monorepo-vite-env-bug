@@ -22,14 +22,14 @@
     "zod": "^4.4.3"
   },
   "devDependencies": {
-    "@tailwindcss/vite": "^4",
+    "@tailwindcss/vite": "^4.3.1",
     "@tanstack/eslint-config": "latest",
     "@turbo/gen": "^2.9.15",
-    "@types/node": "^22",
+    "@types/node": "^25.9.3",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "eslint": "^9",
-    "tailwindcss": "^4",
+    "eslint": "^10.5.0",
+    "tailwindcss": "^4.3.1",
     "typescript": "^6"
   },
   "exports": {

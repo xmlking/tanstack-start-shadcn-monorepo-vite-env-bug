@@ -17,8 +17,12 @@
   },
   "packageManager": "bun@1.3.14",
   "catalog": {
-    "@vite-env/cli": "0.6.1",
-    "@vite-env/core": "0.6.1"
+    "@vite-env/cli": "0.6.2",
+    "@vite-env/core": "0.6.2",
+     "lucide-react": "1.18.0",
+    "react": "19.2.6",
+    "react-dom": "19.2.6",
+     "tailwindcss": "4.3.1"
   },
   "engines": {
     "node": ">=20"
